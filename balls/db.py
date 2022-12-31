@@ -1,6 +1,6 @@
 import json
 
-how_the_fuck_should_i_name_this_list = [705462972415213588, 706697300872921088]
+how_the_fuck_should_i_name_this_list = []
 
 files_map = {
     # "filename": [is list, amount of entries (only if is_list == True), default value]
