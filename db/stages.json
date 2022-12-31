@@ -1,0 +1,42 @@
+{
+    "1": {
+        "requirement": 0,
+        "blocks": ["stone", "coal"],
+        "chances": [90, 60]
+    }, 
+    "2": {
+        "requirement": 3,
+        "blocks": ["coal", "iron", "gold"],
+        "chances": [90, 60, 60]
+    },
+    "3": {
+        "requirement": 6,
+        "blocks": ["diamond", "emerald", "obsidian"],
+        "chances": [90, 70, 40]
+    },
+    "4": {
+        "requirement": 9,
+        "blocks": ["netherrack", "gold", "netherite"],
+        "chances": [90, 60, 30]
+    },
+    "5": {
+        "requirement": 12,
+        "blocks": ["end stone", "purpur pilar", "end crystal"],
+        "chances": [90, 80, 50]
+    },
+    "6": {
+        "requirement": 15,
+        "blocks": ["block of iron", "block of gold"],
+        "chances": [90, 90]
+    },
+    "7": {
+        "requirement": 18,
+        "blocks": ["block of diamond", "block of emerald", "bedrock"],
+        "chances": [90, 80, 60]
+    },
+    "8": {
+        "requirement": 21,
+        "blocks": ["bedrock", "block of emerald"],
+        "chances": [90, 90]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "convert": {
+        "description": "Converts rebirth coins into prestige coins.",
+        "aliases": "cv,conv",
+        "args": "<amount>",
+        "footer": "<argument> is required and [argument] is optional"
+    },
+    "help": {
+        "description": "helps",
+        "aliases": null,
+        "args": "[command]",
+        "footer": "why the fuck do you need help with this command"
+    },
+    "leaderboard": {
+        "description": "Shows leaderboard. Specify a category to get specific leaderboard",
+        "aliases": "lb,top",
+        "args": "[leaderboard]",
+        "footer": "<argument> is required and [argument] is optional"
+    },
+    "prestige": {
+        "description": "prestige",
+        "aliases": "p",
+        "args": null,
+        "footer": null
+    },
+    "profile": {
+        "description": "Shows user's profile. Specify a user to show their profile",
+        "aliases": "pf, userinfo, uinfo",
+        "args": "[user]",
+        "footer": "<argument> is required and [argument] is optional"
+    },
+    "rebirth": {
+        "description": "A greater prestige after prestiging, we can call this rebirth.",
+        "aliases": "rb",
+        "args": null,
+        "footer": null
+    },
+    "sell": {
+        "description": "Sell every item from your backpack for coins",
+        "aliases": "s",
+        "args": null,
+        "footer": null
+    },
+    "shop": {
+        "description": "shop",
+        "aliases": "shop",
+        "args": "shop",
+        "footer": "shop"
+    },
+    "stage_info": {
+        "description": "Shows information about the stages of the game",
+        "aliases": "sinfo",
+        "args": null,
+        "footer": "warning: this command contains a lot of information"
+    },
+    "start": {
+        "description": "Register your profile to get started.",
+        "aliases": null,
+        "args": null,
+        "footer": null
+    },
+    "upgrade": {
+        "description": "Upgrades your tools. Specify a tool and level to upgrade",
+        "aliases": "up",
+        "args": "<tool> [amount/max]",
+        "footer": "<argument> is required and [argument] is optional"
+    },
+    "userbio": {
+        "description": "Customize your bio. Leave the parameter blank to reset it.",
+        "aliases": "bio,setbio",
+        "args": "[content]",
+        "footer":"<argument> is required and [argument] is optional"
+    }
+}

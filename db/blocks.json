@@ -1,0 +1,17 @@
+{
+    "stone": 10,
+    "coal": 17,
+    "iron": 25,
+    "gold": 30,
+    "diamond": 40,
+    "emerald": 60,
+    "obsidian": 100,
+    "netherrack": 120,
+    "netherite": 300,
+    "end stone": 200,
+    "block of iron": 225,
+    "block of gold": 270,
+    "block of diamond": 360,
+    "block of emerald": 540,
+    "bedrock": 800
+}
