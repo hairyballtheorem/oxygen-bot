@@ -1,5 +1,5 @@
 # oxygen-bot
-oxygen bot
+a very serious repository
 
 # name
 bro cant read :skull:
